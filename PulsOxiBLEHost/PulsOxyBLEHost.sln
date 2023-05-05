@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulsOxiBLEHost", "BLEHost\PulsOxiBLEHost.csproj", "{5F691BEB-6A37-43BF-83E0-C54A20FA56E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeTest", "NamedPipeTest\NamedPipeTest.csproj", "{30A0BC09-6121-4369-9378-F8F867D3FB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeTestClient", "NamedPipeTestClient\NamedPipeTestClient.csproj", "{3987748F-AF7C-477A-A3C0-10089FE2936D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F691BEB-6A37-43BF-83E0-C54A20FA56E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F691BEB-6A37-43BF-83E0-C54A20FA56E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F691BEB-6A37-43BF-83E0-C54A20FA56E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F691BEB-6A37-43BF-83E0-C54A20FA56E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A0BC09-6121-4369-9378-F8F867D3FB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A0BC09-6121-4369-9378-F8F867D3FB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A0BC09-6121-4369-9378-F8F867D3FB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A0BC09-6121-4369-9378-F8F867D3FB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3987748F-AF7C-477A-A3C0-10089FE2936D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3987748F-AF7C-477A-A3C0-10089FE2936D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3987748F-AF7C-477A-A3C0-10089FE2936D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3987748F-AF7C-477A-A3C0-10089FE2936D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F94F345-2BE7-4C44-BECE-00964F8CC05C}
+	EndGlobalSection
+EndGlobal
