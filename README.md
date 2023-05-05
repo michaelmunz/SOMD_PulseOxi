@@ -1,6 +1,7 @@
 # SOMD_PulseOxi
 This software is required for the project within the course "Software for Medical Devices", Master Medical Devices - Research and Development at THU.  
-**Author: Michael Munz, THU**
+**Authors: 
+Karl Dubies, Michael Munz, THU**
 
 Software required for the project:
 - PulsOxiBLEHost: connects to the real Bluetooth Low Energy Finger Pulseoximeter
